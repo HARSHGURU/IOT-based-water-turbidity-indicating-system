@@ -4,9 +4,9 @@ const int rs = 9 , en = 10 , d4 = 11 , d5 = 12 , d6 = 13 , d7 = 14;
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 #define RX 2
 #define TX 3
-String AP = "Spam";       // AP NAME
-String PASS = "7218824546"; // AP PASSWORD
-String API = "NE3QJJM62ETZPH0V";   // Write API KEY
+String AP = "Wifi SSID name";       // AP NAME
+String PASS = "wifi password"; // AP PASSWORD
+String API = "API key";   // Write API KEY
 String HOST = "api.thingspeak.com";
 String PORT = "80";
 int countTrueCommand;
