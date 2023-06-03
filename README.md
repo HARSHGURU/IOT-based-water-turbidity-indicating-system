@@ -29,4 +29,5 @@ component used
    3. 16* 2 lcd diplay
    4. ESP 8266-01 WIFI Module
    5. Power supply 5V DC and 3.3V DC
-   
+    
+Note: Here I have used arduino uno  to program controller Atmega 328P
